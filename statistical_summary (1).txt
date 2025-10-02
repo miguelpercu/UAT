@@ -1,0 +1,32 @@
+UAT FRAMEWORK - STATISTICAL SUMMARY
+==================================================
+
+DATASET INFORMATION:
+- H(z) data points: 30
+- Redshift range: 0.07 to 1.75
+- H0 = 67.4 km/s/Mpc
+
+STATISTICAL RESULTS:
+LCDM Model:
+  chi2 = 14.8
+  Reduced chi2 = 0.528
+
+UAT Framework:
+  chi2 = 14.8
+  Reduced chi2 = 0.528
+
+Difference: Delta chi2 = 0.0
+
+SENSITIVITY ANALYSIS:
+M = 1.0e+10 kg: Mean correction = -1.30%
+M = 1.0e+11 kg: Mean correction = -0.65%
+M = 1.0e+12 kg: Mean correction = +0.00%
+M = 1.0e+13 kg: Mean correction = +0.65%
+M = 1.0e+14 kg: Mean correction = +1.30%
+M = 1.0e+15 kg: Mean correction = +1.94%
+
+CONCLUSION:
+The UAT framework demonstrates statistical equivalence to LCDM while
+introducing physically motivated corrections that depend on PBH mass.
+This provides a mechanism for addressing cosmological tensions within
+a framework that maintains agreement with established observational data.
